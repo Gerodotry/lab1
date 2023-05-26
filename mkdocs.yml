@@ -1,0 +1,10 @@
+site_name: FIRST LABA
+site_url: http://welcome.com
+nav:
+  - Home: index.md
+  - Button : button.md
+  - Level-editor : level-editor.md
+  - Main : main.md
+plugins:
+  - mkdocstrings
+theme: readthedocs
